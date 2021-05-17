@@ -479,6 +479,12 @@ color: #FF2B99;
 
 		
 		.dropshiping_box {background: #E9F7FE;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 125px 0px 147px 0px;}
+		
+		.postav_name {}
+		.dropshiping_ostatok_right .drop_ostatok_name {}
+		.dropshiping_ostatok_left .drop_ostatok_name {}
+		.dropshiping_multisklad_name {}
+		
 		.dropshiping_box .title {
     font-family: 'Gilroy Bold';
     font-size: 58px;
