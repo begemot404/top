@@ -1311,9 +1311,9 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
 .slick-dots button {width:29px;height:4px;background:#E2E4E8;border: 0px;border-radius: 10px;font-size:0px;}
 
 
-.section3 {overflow:hidden;}
-.section5 {overflow:hidden;}
-.section8 {overflow:hidden;}
+.section3 {overflow:hidden;position: relative;}
+.section5 {overflow:hidden;position: relative;}
+.section8 {overflow:hidden;position: relative;}
 			
 .section3 .img {    width: 50%;
     height: 100%;
