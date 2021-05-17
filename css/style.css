@@ -1127,7 +1127,7 @@ color: #FF2B99;
 	top: -132px;
 	}
 .trusted_item {}
-
+.trusted_item img {margin:0 auto;}
 .youtube_block {
     display: flex;
     align-items: center;
