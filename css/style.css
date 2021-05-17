@@ -183,6 +183,7 @@ color: #4CCEAC;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 173px 0px 214px 0px;
 }
 .news_block .header_title {
     display: flex;
@@ -299,6 +300,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 88px 0px;
 }
 		.advice_wrapp {
     padding-left: 50%;
@@ -354,6 +356,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 68px 0px 166px 0px;
 }
 		.capability_block .title {
     font-family: 'Gilroy Bold';
@@ -401,7 +404,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
-    
+    padding: 88px 0px;
 }
 .advantage_block .title {
     font-family: 'Gilroy Bold';
@@ -475,7 +478,7 @@ color: #FF2B99;
 					
 
 		
-		.dropshiping_box {background: #E9F7FE;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;}
+		.dropshiping_box {background: #E9F7FE;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 125px 0px 147px 0px;}
 		.dropshiping_box .title {
     font-family: 'Gilroy Bold';
     font-size: 58px;
@@ -621,7 +624,7 @@ color: #FF2B99;
 		.review_block {
     background: #E9F7FE;
 }
-.review_block {display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;}
+.review_block {display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 214px 0px 147px 0px;}
 
 .review_block .slick-prev {
 	background: url(../images/arrow_left.png);
@@ -683,6 +686,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 125px 0px 147px 0px;
 }
 .balance_block .title {
     font-family: 'Gilroy Bold';
@@ -780,7 +784,7 @@ color: #FF2B99;
 }
 				
 		
-.partner_block {background: #E9F7FE;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;}
+.partner_block {background: #E9F7FE;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 214px 0px 147px 0px;}
 .partner_block .title {
     font-family: 'Gilroy Bold';
     margin-top: 63px;
@@ -868,6 +872,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 145px 0px 125px 0px;
 }
 .tarif_title {
     font-family: 'Gilroy Bold';
@@ -1012,7 +1017,7 @@ color: #FF2B99;
     right: -47px;
 }
 		
-.setting_key_block {background: #F5FAFD;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;position: relative;}
+.setting_key_block {background: #F5FAFD;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;position: relative;padding: 202px 0px 197px 0px;}
 .setting_key_block .center {/* position:relative; */}
 .setting_key_block .center:before {content:'';width: 632px;height: 355px;display: table;background: url(../images/setting_1.png);position: absolute;left: 0px;top: 0px;z-index: 1;}
 .setting_key_block .center:after {content:'';width: 632px;height: 355px;display: table;background: url(../images/setting_2.png);position: absolute;bottom: 0px;right: 0px;z-index: 1;}
@@ -1087,6 +1092,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 214px 0px 147px 0px;
 }
 .trusted_block .title {
     font-family: 'Gilroy Bold';
@@ -1210,7 +1216,7 @@ color: #FF2B99;
 
 		
 		
-.asq_block {background: #696FFB;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;}
+.asq_block {background: #696FFB;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 88px 0px 88px 0px;}
 .asq_block .title {font-family: 'Gilroy Bold';
 font-size: 58px;
 line-height: 64px;
@@ -1241,6 +1247,7 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
 	flex-direction: row;
 	flex-wrap: nowrap;
 	align-content: center;
+	padding: 210px 0px 200px 0px;
 }
 .footer .center {
     display: flex;
@@ -1311,9 +1318,9 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
 .slick-dots button {width:29px;height:4px;background:#E2E4E8;border: 0px;border-radius: 10px;font-size:0px;}
 
 
-.section3 {overflow:hidden;}
-.section5 {overflow:hidden;}
-.section8 {overflow:hidden;}
+.section3 {overflow:hidden;position: relative;}
+.section5 {overflow:hidden;position: relative;}
+.section8 {overflow:hidden;position: relative;}
 			
 .section3 .img {    width: 50%;
     height: 100%;
@@ -1368,21 +1375,21 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
     display: flex;
 }
 .form_while .checkbox_box div {margin-right:32px}
-
+/* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° input c type="checkbox" */
   .form_while  .custom-checkbox {
       position: absolute;
       z-index: -1;
       opacity: 0;
     }
 
-    
+    /* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° label, ÑÐ²ÑÐ·Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ .custom-checkbox */
   .form_while  .custom-checkbox+label {
       display: inline-flex;
       align-items: center;
       user-select: none;
     }
 
-    
+    /* ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð² label Ð¿ÑÐµÐ²Ð´Ð¾ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° before ÑÐ¾ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼Ð¸ ÑÑ‚Ð¸Ð»ÑÐ¼Ð¸ */
    .form_while .custom-checkbox+label::before {
       content: '';
       display: inline-block;
