@@ -744,9 +744,9 @@ color: #FF2B99;
     margin-top: 40px;
 }
 .balance_block .balance_sklad {}
-.balance_block .balance_ostatok {
-    width: 450px;
-}
+.balance_block .balance_sklad_name {}
+.balance_block .balance_ostatok {width: 450px;}
+.balance_block .balance_ostatok_name {}
 .balance_block .balance_ostatok .zakaz {
     font-family: 'Gilroy Medium';
     font-size: 12px;
