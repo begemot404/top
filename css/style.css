@@ -1089,6 +1089,7 @@ color: #FF2B99;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
+    padding: 214px 0px 147px 0px;
 }
 .trusted_block .title {
     font-family: 'Gilroy Bold';
@@ -1212,7 +1213,7 @@ color: #FF2B99;
 
 		
 		
-.asq_block {background: #696FFB;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;}
+.asq_block {background: #696FFB;display: flex;align-items: center;justify-content: space-between;flex-direction: row;flex-wrap: nowrap;align-content: center;padding: 88px 0px 88px 0px;}
 .asq_block .title {font-family: 'Gilroy Bold';
 font-size: 58px;
 line-height: 64px;
@@ -1243,6 +1244,7 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
 	flex-direction: row;
 	flex-wrap: nowrap;
 	align-content: center;
+	padding: 210px 0px 200px 0px;
 }
 .footer .center {
     display: flex;
