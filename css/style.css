@@ -1341,9 +1341,9 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
     position: absolute;
     top: 0px;
     right: 0px;}
-.section3 .img img {width:100%;}	
-.section5 .img img {width:100%;}	
-.section8 .img img {width:100%;}	
+.section3 .img img {width:100%;height: 100%;}	
+.section5 .img img {width:100%;height: 100%;}	
+.section8 .img img {width:100%;height: 100%;}	
 	
 .section17 {position:relative;}
 
