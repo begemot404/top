@@ -488,7 +488,7 @@ color: #FF2B99;
     color: #1D293F;
     opacity: 0.4;
     position: absolute;
-    top: -60px;
+    top: -100px;
     left: -13px;
 }
 		.dropshiping_ostatok_right .drop_ostatok_name {
@@ -498,7 +498,7 @@ color: #FF2B99;
     color: #1D293F;
     opacity: 0.4;
     position: absolute;
-    top: -60px;
+    top: -100px;
     left: -16px;
 }
 		.dropshiping_ostatok_left .drop_ostatok_name {
@@ -508,7 +508,7 @@ color: #FF2B99;
     color: #1D293F;
     opacity: 0.4;
     position: absolute;
-    top: -60px;
+    top: -100px;
     left: -16px;
 }
 		.dropshiping_multisklad_name {
@@ -520,7 +520,7 @@ color: #FF2B99;
     opacity: 0.4;
     position: absolute;
     text-align: center;
-    top: -93px;
+    top: -133px;
     left: -26px;
 }
 		
