@@ -975,13 +975,13 @@ color: #FF2B99;
 }
 .tab_link {
     font-family: 'Gilroy Bold';
-    font-size: 16px;
+    font-size: 14px;
     line-height: 19px;
 /* identical to box height */
     text-align: center;
     color: #1D293F;
     text-decoration: none;
-    width: 175px;
+    width: 105px;
     display: table;
     padding: 18px 0px;
     float: left;
@@ -1446,21 +1446,21 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
     display: flex;
 }
 .form_while .checkbox_box div {margin-right:32px}
-/* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° input c type="checkbox" */
+/* ÃÂ´ÃÂ»Ã‘Â Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° input c type="checkbox" */
   .form_while  .custom-checkbox {
       position: absolute;
       z-index: -1;
       opacity: 0;
     }
 
-    /* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° label, ÑÐ²ÑÐ·Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ .custom-checkbox */
+    /* ÃÂ´ÃÂ»Ã‘Â Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° label, Ã‘ÂÃÂ²Ã‘ÂÃÂ·ÃÂ°ÃÂ½ÃÂ½ÃÂ¾ÃÂ³ÃÂ¾ Ã‘Â .custom-checkbox */
   .form_while  .custom-checkbox+label {
       display: inline-flex;
       align-items: center;
       user-select: none;
     }
 
-    /* ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð² label Ð¿ÑÐµÐ²Ð´Ð¾ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° before ÑÐ¾ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼Ð¸ ÑÑ‚Ð¸Ð»ÑÐ¼Ð¸ */
+    /* Ã‘ÂÃÂ¾ÃÂ·ÃÂ´ÃÂ°ÃÂ½ÃÂ¸ÃÂµ ÃÂ² label ÃÂ¿Ã‘ÂÃÂµÃÂ²ÃÂ´ÃÂ¾Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° before Ã‘ÂÃÂ¾ Ã‘ÂÃÂ»ÃÂµÃÂ´Ã‘Æ’Ã‘Å½Ã‘â€°ÃÂ¸ÃÂ¼ÃÂ¸ Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»Ã‘ÂÃÂ¼ÃÂ¸ */
    .form_while .custom-checkbox+label::before {
       content: '';
       display: inline-block;
@@ -1476,13 +1476,13 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
       background-size: 50% 50%;
     }
 
-    /* ÑÑ‚Ð¸Ð»Ð¸ Ð´Ð»Ñ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ñ‡ÐµÐºÐ±Ð¾ÐºÑÐ° (Ð¿Ñ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ Ð½Ð° Ð½ÐµÐ³Ð¾) */
+    /* Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»ÃÂ¸ ÃÂ´ÃÂ»Ã‘Â ÃÂ°ÃÂºÃ‘â€šÃÂ¸ÃÂ²ÃÂ½ÃÂ¾ÃÂ³ÃÂ¾ Ã‘â€¡ÃÂµÃÂºÃÂ±ÃÂ¾ÃÂºÃ‘ÂÃÂ° (ÃÂ¿Ã‘â‚¬ÃÂ¸ ÃÂ½ÃÂ°ÃÂ¶ÃÂ°Ã‘â€šÃÂ¸ÃÂ¸ ÃÂ½ÃÂ° ÃÂ½ÃÂµÃÂ³ÃÂ¾) */
   .form_while  .custom-checkbox:not(:disabled):active+label::before {
       background-color: #b3d7ff;
       border-color: #b3d7ff;
     }
 
-    /* ÑÑ‚Ð¸Ð»Ð¸ Ð´Ð»Ñ Ñ‡ÐµÐºÐ±Ð¾ÐºÑÐ°, Ð½Ð°Ñ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ÑÑ Ð² ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ð¸ checked */
+    /* Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»ÃÂ¸ ÃÂ´ÃÂ»Ã‘Â Ã‘â€¡ÃÂµÃÂºÃÂ±ÃÂ¾ÃÂºÃ‘ÂÃÂ°, ÃÂ½ÃÂ°Ã‘â€¦ÃÂ¾ÃÂ´Ã‘ÂÃ‘â€°ÃÂµÃÂ³ÃÂ¾Ã‘ÂÃ‘Â ÃÂ² Ã‘ÂÃÂ¾Ã‘ÂÃ‘â€šÃÂ¾Ã‘ÂÃÂ½ÃÂ¸ÃÂ¸ checked */
    .form_while .custom-checkbox:checked+label::before {
       background-color: #E9F7FE;
       border: 6px solid #258AFF;
@@ -1573,21 +1573,21 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
     display: flex;
 }
 .form_blue .checkbox_box div {margin-right:32px}
-/* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° input c type="checkbox" */
+/* ÃÂ´ÃÂ»Ã‘Â Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° input c type="checkbox" */
   .form_blue  .custom-checkbox {
       position: absolute;
       z-index: -1;
       opacity: 0;
     }
 
-    /* Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° label, ÑÐ²ÑÐ·Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ .custom-checkbox */
+    /* ÃÂ´ÃÂ»Ã‘Â Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° label, Ã‘ÂÃÂ²Ã‘ÂÃÂ·ÃÂ°ÃÂ½ÃÂ½ÃÂ¾ÃÂ³ÃÂ¾ Ã‘Â .custom-checkbox */
   .form_blue  .custom-checkbox+label {
       display: inline-flex;
       align-items: center;
       user-select: none;
     }
 
-    /* ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð² label Ð¿ÑÐµÐ²Ð´Ð¾ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° before ÑÐ¾ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼Ð¸ ÑÑ‚Ð¸Ð»ÑÐ¼Ð¸ */
+    /* Ã‘ÂÃÂ¾ÃÂ·ÃÂ´ÃÂ°ÃÂ½ÃÂ¸ÃÂµ ÃÂ² label ÃÂ¿Ã‘ÂÃÂµÃÂ²ÃÂ´ÃÂ¾Ã‘ÂÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½Ã‘â€šÃÂ° before Ã‘ÂÃÂ¾ Ã‘ÂÃÂ»ÃÂµÃÂ´Ã‘Æ’Ã‘Å½Ã‘â€°ÃÂ¸ÃÂ¼ÃÂ¸ Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»Ã‘ÂÃÂ¼ÃÂ¸ */
    .form_blue .custom-checkbox+label::before {
       content: '';
       display: inline-block;
@@ -1603,13 +1603,13 @@ color: rgba(255, 255, 255, 0.83);margin-bottom:48px;}
       background-size: 50% 50%;
     }
 
-    /* ÑÑ‚Ð¸Ð»Ð¸ Ð´Ð»Ñ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ñ‡ÐµÐºÐ±Ð¾ÐºÑÐ° (Ð¿Ñ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ Ð½Ð° Ð½ÐµÐ³Ð¾) */
+    /* Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»ÃÂ¸ ÃÂ´ÃÂ»Ã‘Â ÃÂ°ÃÂºÃ‘â€šÃÂ¸ÃÂ²ÃÂ½ÃÂ¾ÃÂ³ÃÂ¾ Ã‘â€¡ÃÂµÃÂºÃÂ±ÃÂ¾ÃÂºÃ‘ÂÃÂ° (ÃÂ¿Ã‘â‚¬ÃÂ¸ ÃÂ½ÃÂ°ÃÂ¶ÃÂ°Ã‘â€šÃÂ¸ÃÂ¸ ÃÂ½ÃÂ° ÃÂ½ÃÂµÃÂ³ÃÂ¾) */
   .form_blue  .custom-checkbox:not(:disabled):active+label::before {
       background-color: #b3d7ff;
       border-color: #b3d7ff;
     }
 
-    /* ÑÑ‚Ð¸Ð»Ð¸ Ð´Ð»Ñ Ñ‡ÐµÐºÐ±Ð¾ÐºÑÐ°, Ð½Ð°Ñ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ÑÑ Ð² ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ð¸ checked */
+    /* Ã‘ÂÃ‘â€šÃÂ¸ÃÂ»ÃÂ¸ ÃÂ´ÃÂ»Ã‘Â Ã‘â€¡ÃÂµÃÂºÃÂ±ÃÂ¾ÃÂºÃ‘ÂÃÂ°, ÃÂ½ÃÂ°Ã‘â€¦ÃÂ¾ÃÂ´Ã‘ÂÃ‘â€°ÃÂµÃÂ³ÃÂ¾Ã‘ÂÃ‘Â ÃÂ² Ã‘ÂÃÂ¾Ã‘ÂÃ‘â€šÃÂ¾Ã‘ÂÃÂ½ÃÂ¸ÃÂ¸ checked */
    .form_blue .custom-checkbox:checked+label::before {
       background-color: #E9F7FE;
       border: 6px solid #258AFF;
